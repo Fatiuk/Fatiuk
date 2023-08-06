@@ -25,8 +25,8 @@ My project experience includes both team and individual projects, working with *
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/andrii-fatiuk-7b9a6b286//" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="7777bmx7777@gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.svg"> Gmail</a></code>
+  <code><a href="https://t.me/O63636363O" title="Telegram Profile"><img width="22" src="images/telegram.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/Aakkyratnui/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>  <br>
 
