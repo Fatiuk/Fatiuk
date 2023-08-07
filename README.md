@@ -36,7 +36,7 @@ My project experience includes both team and individual projects, working with *
     <img width="22" src="images/telegram.svg" alt="Telegram"> Telegram
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/Aakkyratnui/" title="Instagram Profile">
+  <a href="https://www.instagram.com/Akkyratnui/" title="Instagram Profile">
     <img width="22" src="images/instagram.svg" alt="Instagram"> Instagram
   </a>
 </div>
