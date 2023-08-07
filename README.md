@@ -28,7 +28,7 @@ My project experience includes both team and individual projects, working with *
     <img width="22" src="images/linkedin.svg" alt="LinkedIn"> LinkedIn
   </a>
   &nbsp;&nbsp;
-  <a href="7777bmx7777@gmail.com" title="Gmail Profile">
+  <a href="fatiukandrii11@gmail.com" title="Gmail Profile">
     <img width="22" src="images/gmail.svg" alt="Gmail"> Gmail
   </a>
   &nbsp;&nbsp;
