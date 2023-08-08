@@ -24,7 +24,7 @@ My project experience includes both team and individual projects, working with *
  ## 📫 Contact Me on Social Media
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andrii-fatiuk-7b9a6b286//" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/andrii-fatiuk" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg" alt="LinkedIn"> LinkedIn
   </a>
   &nbsp;&nbsp;
