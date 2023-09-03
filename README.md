@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me :
 <img align='right' src='https://github.com/Fatiuk/Fatiuk/assets/125760945/0eff6015-f369-4b94-b647-02c60f278947' width='300'>  <br>
-Hi, i'm [Andrii Fatiuk](https://abhishknads.me/), a full stack web developer and a freelance software engineer romf **Kyiv, Ukraine**.  <br>
+Hi, i'm [Andrii Fatiuk](https://t.me/O63636363O), a full stack web developer and a freelance software engineer from **Kyiv, Ukraine**.  <br>
 I take great care in the experience, architecture, and code quality of the things I build.  <br>
 
 
@@ -23,12 +23,23 @@ My project experience includes both team and individual projects, working with *
 
  ## 📫 Contact Me on Social Media
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/andrii-fatiuk-7b9a6b286//" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="7777bmx7777@gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.svg"> Gmail</a></code>
-  <code><a href="https://t.me/O63636363O" title="Telegram Profile"><img width="22" src="images/telegram.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/Aakkyratnui/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>  <br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/andrey-fatyuk" title="LinkedIn Profile">
+    <img width="22" src="images/linkedin.svg" alt="LinkedIn"> LinkedIn
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:fatiukandrii11@gmail.com" title="Gmail Profile">
+    <img width="22" src="images/gmail.svg" alt="Gmail"> Gmail
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/O63636363O" title="Telegram Profile">
+    <img width="22" src="images/telegram.svg" alt="Telegram"> Telegram
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/akkyratnui/" title="Instagram Profile">
+    <img width="22" src="images/instagram.svg" alt="Instagram"> Instagram
+  </a>
+</div>
 
 ## Roadmap 2023 :
 
@@ -53,6 +64,7 @@ My project experience includes both team and individual projects, working with *
   <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
   <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
+  <img src="./images/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="./images/terminal-original.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
@@ -76,22 +88,22 @@ My project experience includes both team and individual projects, working with *
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/Fatiuk/Fatiuk"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=Fatiuk&hide_border=true&show_icons=true&count_private=true" alt="Andrii Fatiuk GitHub Stats" /></a>
+  <a href="https://github.com/Fatiuk/Fatiuk"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=Fatiuk&theme=aura&hide_border=true&show_icons=true&count_private=true" alt="Andrii Fatiuk GitHub Stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=Fatiuk&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=Fatiuk&theme=aura&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
   </td>
   </tr>
   <tr>
   <td colspan=2 align="center">
- <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Fatiuk&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Andrii Fatiuk GitHub Readme Streak Stats" /> </a>
+ <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Fatiuk&theme=burnt-neon&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Andrii Fatiuk GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
   
   <tr>
  <td colspan="2">
   <p text-align="center">
-  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Fatiuk&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Andrii Fatiuk" />
+  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Fatiuk&no-frame=true&no-bg=true&theme=darkhub&column=8&margin-w=5&margin-h=5&rank=-?" alt="Andrii Fatiuk" />
   </p>
   </td>
   </tr>
