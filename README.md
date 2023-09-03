@@ -110,5 +110,5 @@ My project experience includes both team and individual projects, working with *
 </table>
 
   <div align=center> 
-   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;I+use+a+technique+called+rubber+duck+debugging+;" alt="Fun Facts" /> 
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23A0FFC1&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Fact:+;My+coding+blunders+are+proof+that+I'm+human,+not+a+robot!+;" alt="Fun Facts" /> 
   </div>
