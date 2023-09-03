@@ -24,7 +24,7 @@ My project experience includes both team and individual projects, working with *
  ## 📫 Contact Me on Social Media
 
 <div align="center">
-  <a href="www.linkedin.com/in/andrey-fatyuk" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/andrey-fatyuk" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg" alt="LinkedIn"> LinkedIn
   </a>
   &nbsp;&nbsp;
@@ -64,6 +64,7 @@ My project experience includes both team and individual projects, working with *
   <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
   <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
+  <img src="./images/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="./images/terminal-original.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
