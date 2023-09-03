@@ -88,22 +88,22 @@ My project experience includes both team and individual projects, working with *
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/Fatiuk/Fatiuk"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=Fatiuk&theme=aura&hide_border=true&show_icons=true&count_private=true" alt="Andrii Fatiuk GitHub Stats" /></a>
+  <a href="https://github.com/Fatiuk/Fatiuk"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=Fatiuk&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Andrii Fatiuk GitHub Stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=Fatiuk&theme=aura&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=Fatiuk&theme=dark&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
   </td>
   </tr>
   <tr>
   <td colspan=2 align="center">
- <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Fatiuk&theme=burnt-neon&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Andrii Fatiuk GitHub Readme Streak Stats" /> </a>
+ <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Fatiuk&theme=dark&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CMon%2CTue&card_width=900)](https://git.io/streak-stats" alt="Andrii Fatiuk GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
   
   <tr>
  <td colspan="2">
   <p text-align="center">
-  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Fatiuk&no-frame=true&no-bg=true&theme=darkhub&column=8&margin-w=5&margin-h=5&rank=-?" alt="Andrii Fatiuk" />
+  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=Fatiuk&no-frame=true&no-bg=true&theme=onestar&column=8&margin-w=5&margin-h=5&rank=-?" alt="Andrii Fatiuk" />
   </p>
   </td>
   </tr>
