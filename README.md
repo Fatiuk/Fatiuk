@@ -18,7 +18,7 @@ My project experience includes both team and individual projects, working with *
 🌐 Languages : **🇺🇦Ukrainian - native** | **🇬🇧English - intermediate**
 
  <div>
-   <a href="https://www.codewars.com/users/Fatiuk"><img src="https://www.codewars.com/users/Fatiuk/badges/small" width="384">
+   <a href="https://www.codewars.com/users/Fatiuk"><img src="https://www.codewars.com/users/Fatiuk/badges/small" width="364">
  </div>
 
  ## 📫 Contact Me on Social Media
