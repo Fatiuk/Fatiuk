@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me :
 <img align='right' src='https://github.com/Fatiuk/Fatiuk/assets/125760945/0eff6015-f369-4b94-b647-02c60f278947' width='300'>  <br>
-Hi, i'm [Andrii Fatiuk](https://t.me/O63636363O), a full stack web developer and a freelance software engineer from **Kyiv, Ukraine**.  <br>
+Hi, i'm [Andrii Fatiuk](https://t.me/AndriiFatiuk), a full stack web developer and a freelance software engineer from **Kyiv, Ukraine**.  <br>
 I take great care in the experience, architecture, and code quality of the things I build.  <br>
 
 
@@ -32,7 +32,7 @@ My project experience includes both team and individual projects, working with *
     <img width="22" src="images/gmail.svg" alt="Gmail"> Gmail
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/O63636363O" title="Telegram Profile">
+  <a href="https://t.me/AndriiFatiuk" title="Telegram Profile">
     <img width="22" src="images/telegram.svg" alt="Telegram"> Telegram
   </a>
   &nbsp;&nbsp;
