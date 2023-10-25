@@ -100,7 +100,7 @@ As a team player with excellent communication skills, I value continuous learnin
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Fatiuk&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=Fatiuk&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Fatiuk&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
@@ -141,23 +141,23 @@ As a team player with excellent communication skills, I value continuous learnin
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
   <a href="https://www.linkedin.com/in/andrey-fatyuk" target="_blank">
-    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
+    <img src="./assets/logos/linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
   <a href="https://discord.com/users/385102038087892992" target="_blank">
-    <img src="./assets/logos/neon-discord.png" width="48px" alt="Telegram"/>
+    <img src="./assets/logos/telegram.png" width="48px" alt="Telegram"/>
   </a>
   &nbsp
   <a href="mailto:fatiukandrii11@gmail.com" target="_blank">
-    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Gmail"/>
+    <img src="./assets/logos/apple.png" width="48px" alt="Gmail"/>
   </a>
   &nbsp
   <a href="https://www.facebook.com/fatiukandrii/" target="_blank">
-    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+    <img src="./assets/logos/facebook.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp
   <a href="https://www.instagram.com/akkyratnui/" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
+    <img src="./assets/logos/instagram.png" width="48px" alt="Instagram"/>
   </a>
 </div>
 
