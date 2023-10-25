@@ -27,9 +27,9 @@
 
 -   🚀 2023 Goals: Front-end job, master front-end, learn backend basics, continue personal projects. <br><br><br>
 
--   ☕ Interest: Sports, Cars, Gaming, and Coding. <br><br><br>
+-   ☕ Interest: Sports, Cars, Travel, and Coding. <br><br><br>
 
--   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Powerlifting, Boxing, Racing, 3D Modelling, Extreme Cycling, and Linkedin. <br><br>
 
 <h2></h2>
 
