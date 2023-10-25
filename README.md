@@ -40,9 +40,47 @@ As a team player with excellent communication skills, I value continuous learnin
 
 <h2></h2>
 
+<div align="center">
+  <h2> <strong> 📚 My Languages </strong> <img src="./assets/borderseparator.gif"/> </h2>
+  <br>
 
-🌐 Languages : **🇺🇦Ukrainian - native** | **🇬🇧English - intermediate**
+  🌐 Languages : **🇺🇦Ukrainian - native** | **🇬🇧English - intermediate**
 
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+
+  <a href="https://wakatime.com/@godkingjay" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  </a>
+  <br>
+  
+  <h2></h2>
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,svg,html,css,sass,tailwind,js,ts,react,redux,postman,nodejs,webpack,vite,babel,bootstrap,emotion,materialui" alt="skills logos" />
+  <br> 
+  <h2></h2>
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=next,nodejs" alt="skills actively learning logos">
+  <br>
+  <h2></h2>
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="./images/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular,vue,docker," alt="skills planning to learn logos">
+</div>
+  
  <div>
    <a href="https://www.codewars.com/users/Fatiuk"><img src="https://www.codewars.com/users/Fatiuk/badges/small" width="364">
  </div>
@@ -70,7 +108,7 @@ As a team player with excellent communication skills, I value continuous learnin
 ## Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React.js` | `TypeScript` <br>
-📚 - **learn:** `Next.js` | `Mobx.js `| `Node.js` | `React Native` <br>
+📚 - **Learn:** `Next.js` | `Mobx.js `| `Node.js` | `React Native` <br>
 
 ## My stack and tools :
 
@@ -81,15 +119,13 @@ As a team player with excellent communication skills, I value continuous learnin
   <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="./images/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="./images/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+
   <img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
   <img src="./images/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="./images/github-original.svg" title="Github"  alt="Github" width="40"/>&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
-  <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-  <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
+
   <img src="./images/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
@@ -99,7 +135,7 @@ As a team player with excellent communication skills, I value continuous learnin
   <img src="./images/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
   <img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
-  <img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
+
   <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="./images/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
