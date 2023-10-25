@@ -13,6 +13,26 @@
 </div>
 
 ## 👨‍💻 About Me :
+<h2></h2>
+
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+
+-   👨‍💻 I'm Andrii Fatiuk👋, a Softwear Engineer, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+
+-   🌳 I’m currently learning Next.js and Node.js using JavaScript! <br><br><br>
+
+-   🐾 I’m looking to network and make friends here! <br><br><br>
+
+-   🚀 2023 Goals: Front-end job, master front-end, learn backend basics, continue personal projects. <br><br><br>
+
+-   ☕ Interest: Sports, Cars, Gaming, and Coding. <br><br><br>
+
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+
+<h2></h2>
+
 Hi, i'm [Andrii Fatiuk](https://t.me/AndriiFatiuk), a full stack web developer and a freelance software engineer from **Kyiv, Ukraine**.  <br>
 I take great care in the experience, architecture, and code quality of the things I build.  <br>
 
