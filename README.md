@@ -12,21 +12,9 @@
   <img src="https://profile-counter.glitch.me/Fatiuk/count.svg" />
 </div>
 
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-  
- <h1>
-    Hey there, I'm Andrii!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  </h1>
- </div>
-
 ## 👨‍💻 About Me :
 Hi, i'm [Andrii Fatiuk](https://t.me/AndriiFatiuk), a full stack web developer and a freelance software engineer from **Kyiv, Ukraine**.  <br>
 I take great care in the experience, architecture, and code quality of the things I build.  <br>
-
 
 My project experience includes both team and individual projects, working with **HTML5**, **CSS3**, **JavaScript** and **React**, as well as Agile & Scrum methodology.  <br>
 
