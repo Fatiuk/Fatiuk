@@ -20,8 +20,6 @@ My project experience includes both team and individual projects, with roles as 
 
 As a team player with excellent communication skills, I value continuous learning and strive to stay up-to-date with the latest industry trends.
 
-
-
 <h2></h2>
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
@@ -71,8 +69,8 @@ As a team player with excellent communication skills, I value continuous learnin
 
 ## Roadmap 2023 :
 
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **learn:** `React` | `React Native` | `UI/UX` | `Node.js` | `TypeScript` <br>
+✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React.js` | `TypeScript` <br>
+📚 - **learn:** `Next.js` | `Mobx.js `| `Node.js` | `React Native` <br>
 
 ## My stack and tools :
 
