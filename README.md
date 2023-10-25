@@ -14,8 +14,13 @@
 
 ## 👨‍💻 About Me :
 
-[Andrii Fatiuk](https://t.me/AndriiFatiuk). I’m actively working towards my interest in Web Development through self-study and pet projects. I have been dedicated to learning JavaScript, React.js, and Next.js, and I consistently practice and apply my knowledge by developing personal projects. Additionally, I possess proficiency in HTML, CSS, Git.
+[Andrii Fatiuk](https://t.me/AndriiFatiuk). I’m actively working towards my interest in Web Development through self-study and pet projects. I have been dedicated to learning **JavaScript**,**TypeScript**, **React.js**, and **Next.js**, and I consistently practice and apply my knowledge by developing personal projects. Additionally, I possess proficiency in **HTML**, **CSS**, **Git**.
+
+My project experience includes both team and individual projects, with roles as a team lead, managing a group of individuals. I have worked with **HTML5**, **CSS3**,  **SASS**, **JavaScript**, **TypeScript**, and **React.js** ensuring successful project execution.
+
 As a team player with excellent communication skills, I value continuous learning and strive to stay up-to-date with the latest industry trends.
+
+
 
 <h2></h2>
 
@@ -37,10 +42,6 @@ As a team player with excellent communication skills, I value continuous learnin
 
 <h2></h2>
 
-Hi, i'm [Andrii Fatiuk](https://t.me/AndriiFatiuk), a full stack web developer and a freelance software engineer from **Kyiv, Ukraine**.  <br>
-I take great care in the experience, architecture, and code quality of the things I build.  <br>
-
-My project experience includes both team and individual projects, working with **HTML5**, **CSS3**, **JavaScript** and **React**, as well as Agile & Scrum methodology.  <br>
 
 🌐 Languages : **🇺🇦Ukrainian - native** | **🇬🇧English - intermediate**
 
