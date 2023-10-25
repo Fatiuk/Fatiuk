@@ -67,7 +67,7 @@ As a team player with excellent communication skills, I value continuous learnin
   <br>
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="./assets/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="./assets/logos/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=angular,vue,docker," alt="skills planning to learn logos">
 </div>
 
