@@ -117,11 +117,17 @@ As a team player with excellent communication skills, I value continuous learnin
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
+  <a href="https://github.com/Fatiuk/goit-react-hw-08-phonebook" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatiuk&theme=radical&repo=goit-react-hw-08-phonebook" width="49%" alt="MyContacts"/>
   </a>
-  <a href="https://github.com/godkingjay/sorsu" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
+  <a href="https://github.com/Fatiuk/project-tasty-treats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatiuk&theme=radical&repo=project-tasty-treats" width="49%" alt="Tasty Treats"/>
+  </a>
+  <a href="https://github.com/Fatiuk/goit-js-hw-11" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatiuk&theme=radical&repo=goit-js-hw-11" width="49%" alt="PixQuery"/>
+  </a>
+  <a href="https://github.com/Fatiuk/project-thewatchspot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatiuk&theme=radical&repo=project-thewatchspot" width="49%" alt="The Watch Spot"/>
   </a>
 </div>
 
