@@ -38,16 +38,6 @@ As a team player with excellent communication skills, I value continuous learnin
 
 -   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Powerlifting, Boxing, Racing, 3D Modelling, Extreme Cycling, and Linkedin. <br><br>
 
-<h2></h2>
-
-<div align="center">
-  <h2> <strong> 📚 My Languages </strong> <img src="./assets/borderseparator.gif"/> </h2>
-  <br>
-
-  🌐 Languages : **🇺🇦Ukrainian - native** | **🇬🇧English - intermediate**
-
-<h2></h2>
-
 <div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
@@ -80,63 +70,136 @@ As a team player with excellent communication skills, I value continuous learnin
   <img src="./images/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=angular,vue,docker," alt="skills planning to learn logos">
 </div>
+
+<h2></h2>
+
+<div align="center">
+  <h2> <strong> 📚 My Languages </strong> <img src="./assets/borderseparator.gif"/> </h2>
+  <br>
+
+  🌐 Languages : **🇺🇦Ukrainian - native** | **🇬🇧English - intermediate**
+
+<h2></h2>
   
  <div>
    <a href="https://www.codewars.com/users/Fatiuk"><img src="https://www.codewars.com/users/Fatiuk/badges/small" width="364">
  </div>
-
- ## 📫 Contact Me on Social Media
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrey-fatyuk" title="LinkedIn Profile">
-    <img width="22" src="images/linkedin.svg" alt="LinkedIn"> LinkedIn
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:fatiukandrii11@gmail.com" title="Gmail Profile">
-    <img width="22" src="images/gmail.svg" alt="Gmail"> Gmail
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/AndriiFatiuk" title="Telegram Profile">
-    <img width="22" src="images/telegram.svg" alt="Telegram"> Telegram
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/akkyratnui/" title="Instagram Profile">
-    <img width="22" src="images/instagram.svg" alt="Instagram"> Instagram
-  </a>
-</div>
 
 ## Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React.js` | `TypeScript` <br>
 📚 - **Learn:** `Next.js` | `Mobx.js `| `Node.js` | `React Native` <br>
 
-## My stack and tools :
-
 ## GitHub Stats :
 
-<table align="center">
-  <tr>
-  <td>
-  <a href="https://github.com/Fatiuk/Fatiuk"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=Fatiuk&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Andrii Fatiuk GitHub Stats" /></a>
-  </td>
-  <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=Fatiuk&theme=dark&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
-  </td>
-  </tr>
-  <tr>
-  <td colspan=2 align="center">
- <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Fatiuk&theme=dark&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CMon%2CTue&card_width=900)](https://git.io/streak-stats" alt="Andrii Fatiuk GitHub Readme Streak Stats" /> </a>
-  </td>
-  </tr>
-  
-  <tr>
- <td colspan="2">
-  <p text-align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fatiuk&theme=onestar" alt="Andrii Fatiuk" />
-  </p>
-  </td>
-  </tr>
-</table>
+<h2></h2>
+
+<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
+
+|                                                               👩‍💻 Device                                                               |                                                                                                                                                                                                                                                                                                                ⚙️ Specification                                                                                                                                                                                                                                                                                                                |                                                                                                                                         📃 Purpose                                                                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logoColor=white" alt="Acer Aspire 7"/> | <img src="https://img.shields.io/badge/Windows%2011%20Home-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205%205500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/512GB%20SSD-0078D6?style=for-the-badge" alt="512GB SSD"/> <img src="https://img.shields.io/badge/16GB%20DDR4-0078D6?style=for-the-badge&logoColor=white" alt="16GB RAM"> | <img src="https://img.shields.io/badge/🧑‍💻%20Work-007DB8?style=for-the-badge" alt="Work"> <img src="https://img.shields.io/badge/🧑‍💻%20Programming-202020?style=for-the-badge" alt="Programming"> <img src="https://img.shields.io/badge/🧑‍🎓%20School-00897B?style=for-the-badge" alt="School"> |
+
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
+</div> -->
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+</div>
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
+  </a>
+  <a href="https://github.com/godkingjay/sorsu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
+  </a>
+  <a href="https://github.com/godkingjay/library-management-system-next-react" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
+  </a>
+  <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
+  </a>
+  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  </a>
+  <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
+  </a>
+  <a href="https://github.com/godkingjay/turbo-nextui-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
+  </a>
+  <a href="https://github.com/godkingjay/turborepo-next-django-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
+  </a>
+  <a href="https://github.com/godkingjay/django-jwt-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
+  </a>
+  <a href="https://github.com/godkingjay/springer-nature-latex-template" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
+  </a>
+  <a href="https://github.com/godkingjay/BSCS-GVC-01-Infographics" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
+  </a>
+</div>
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
+  <a href="https://www.linkedin.com/in/andrey-fatyuk" target="_blank">
+    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
+  </a>
+  &nbsp
+  <a href="https://discord.com/users/385102038087892992" target="_blank">
+    <img src="./assets/logos/neon-discord.png" width="48px" alt="Telegram"/>
+  </a>
+  &nbsp
+  <a href="mailto:fatiukandrii11@gmail.com" target="_blank">
+    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Gmail"/>
+  </a>
+  &nbsp
+  <a href="https://www.facebook.com/fatiukandrii/" target="_blank">
+    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+  </a>
+  &nbsp
+  <a href="https://www.instagram.com/akkyratnui/" target="_blank">
+    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
+  </a>
+</div>
+
+<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+<img src="./assets/animated-wave.svg" />
+
 
   <div align=center> 
    <img src="https://readme-typing-svg.herokuapp.com?color=%23A0FFC1&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Fact:+;My+coding+blunders+are+proof+that+I'm+human,+not+a+robot!+;" alt="Fun Facts" /> 
