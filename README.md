@@ -13,6 +13,10 @@
 </div>
 
 ## 👨‍💻 About Me :
+
+[Andrii Fatiuk](https://t.me/AndriiFatiuk). I’m actively working towards my interest in Web Development through self-study and pet projects. I have been dedicated to learning JavaScript, React.js, and Next.js, and I consistently practice and apply my knowledge by developing personal projects. Additionally, I possess proficiency in HTML, CSS, Git.
+As a team player with excellent communication skills, I value continuous learning and strive to stay up-to-date with the latest industry trends.
+
 <h2></h2>
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
