@@ -1,3 +1,19 @@
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andrii+Fatiuk+and+Welcome+to+my+Profile!" alt="Hey, I'm Andrii Fatiuk and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/Fatiuk/count.svg" />
+</div>
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
   
@@ -8,7 +24,6 @@
  </div>
 
 ## 👨‍💻 About Me :
-<img align='right' src='https://github.com/Fatiuk/Fatiuk/assets/125760945/0eff6015-f369-4b94-b647-02c60f278947' width='300'>  <br>
 Hi, i'm [Andrii Fatiuk](https://t.me/AndriiFatiuk), a full stack web developer and a freelance software engineer from **Kyiv, Ukraine**.  <br>
 I take great care in the experience, architecture, and code quality of the things I build.  <br>
 
