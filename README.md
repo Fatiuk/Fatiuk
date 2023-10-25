@@ -103,7 +103,7 @@ My project experience includes both team and individual projects, working with *
   <tr>
  <td colspan="2">
   <p text-align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="Andrii Fatiuk" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Fatiuk-ma&theme=gruvbox" alt="Andrii Fatiuk" />
   </p>
   </td>
   </tr>
