@@ -139,7 +139,7 @@ As a team player with excellent communication skills, I value continuous learnin
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
+  <h2 align="center">✉️ Contacts with me <img src="./assets/borderseparator.gif"/></h2>
   <a href="https://www.linkedin.com/in/andrey-fatyuk" target="_blank">
     <img src="./assets/logos/linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
