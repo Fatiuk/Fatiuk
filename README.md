@@ -88,7 +88,7 @@ As a team player with excellent communication skills, I value continuous learnin
 ## Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React.js` | `TypeScript` <br>
-📚 - **Learn:** `Next.js` | `Mobx.js `| `Node.js` | `React Native` <br>
+📚 - **Learn:** `Vue.js` |`Next.js` | `Mobx.js `| `Node.js` | `React Native` <br>
 
 ## GitHub Stats :
 
